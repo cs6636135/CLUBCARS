@@ -1,6 +1,6 @@
 =======
 # CLUBCARS
-📄 **Full Project Documentation: 
+📄 **Full Project Documentation:**
 [View Project Documentation (PDF)](project-se_clubcars.pdf)
 =======
 HEAD
