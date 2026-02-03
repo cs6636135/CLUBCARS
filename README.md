@@ -1,3 +1,8 @@
+=======
+# CLUBCARS
+📄 **Full Project Documentation:**  
+[View Project Documentation (PDF)](project-se_clubcars.pdf)
+=======
 HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -50,5 +55,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
-# CLUBCARS
 52e7437c0e84d27357fce4b27c7906f061902483
