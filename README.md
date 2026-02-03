@@ -1,4 +1,4 @@
-=======
+
 # CLUBCARS
 📄 **Full Project Documentation:**
 [View Project Documentation (PDF)](project-se_clubcars.pdf)
